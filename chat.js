@@ -1,6 +1,6 @@
 (function () {
   // ============ PARTE PARA EDITAR ============
-  const API = marcellypessoal.edusiaia.workers.dev;
+  const API = "https://marcellypessoal.edusiaia.workers.dev";
   const TITULO = "Tire suas dúvidas";
   const SAUDACAO = "Olá! Como posso te ajudar com nossos serviços?";
  
